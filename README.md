@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=0&color=F8FAFC&repeat=true&random=false&width=3000&height=30&lines=____" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=4000&color=F8FAFC&repeat=true&random=false&width=3000&height=30&lines=____" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=4000&color=F8FAFC&repeat=true&random=false&width=3000&height=30&lines=___________" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=4000&color=F8FAFC&repeat=true&random=false&width=3000&height=30&lines=_____________________" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=4000&color=D9EAFD&repeat=true&random=false&width=3000&height=30&lines=_______________________________" alt="Typing SVG" /></a>
